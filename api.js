@@ -106,7 +106,7 @@ var api = {
                         return me.fetch(method, uri, getParams, postParams, cb, num)
                     }
                     else {
-                        cb()
+                        return cb()
                     }
                 }
 
