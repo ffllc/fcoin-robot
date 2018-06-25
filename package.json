@@ -1,0 +1,14 @@
+{
+  "name": "fcoin-robot",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "needle": "0.7.10",
+    "async": "2.0.1"
+  },
+  "devDependencies": {
+  }
+}
