@@ -25,4 +25,5 @@
 * 允许当前有多个未成交的记录, 避免卡死
 
 ## 技术支持
-......
+
+![image](https://user-images.githubusercontent.com/1699428/41828082-c262d0ce-7865-11e8-957c-a984f4cd9f65.png)
